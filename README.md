@@ -1,6 +1,7 @@
 # 👋 Hi! My name is Alan
 ### I'm Junior Python Backend Developer
 
+### My Stats:
 [![GitHub Streak](https://github-readme-streak-stats-seven-dusky.vercel.app?user=AlanZhuman&theme=youtube-dark&card_width=700&card_height=150)](https://git.io/streak-stats)
 
 ---
