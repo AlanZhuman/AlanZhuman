@@ -1,5 +1,7 @@
 # 👋 Hi! My name is Alan
-### Junior Python Backend Developer
+### I'm Junior Python Backend Developer
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlanZhuman&theme=merko&card_width=700&card_height=150)](https://git.io/streak-stats)
 
 ---
 
