@@ -42,7 +42,7 @@ _May 2024 - September 2024_
 ---
 
 ## 🌍 Languages
-• **German**: B1 (active learning)  
+• **German**: B1.2-B2.1 (active learning)  
 • **English**: B2 (reading documentation, basic communication)  
 
 ---
