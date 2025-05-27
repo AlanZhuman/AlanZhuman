@@ -28,7 +28,7 @@
 ## 📈 Experience
 
 **Backend Developer** @ Biometric Technology Inc.  
-October 2024 - Present_  
+_October 2024 - February 2025_ 
 • Developing APIs for the company's internal services  
 • Fixing bugs in the company's commercial projects  
 • Improving and customizing internal tools  
@@ -50,8 +50,8 @@ _May 2024 - September 2024_
 ## 🎯 Goals for 2025
 1. Complete AWS Cloud Practitioner Certification  
 2. Master advanced features of Python, Django, FastAPI  
-3. Improve German to level B2+  
-4. Start developing my own project  
+3. Improve German to level B2.2-C1  
+4. Start developing my own project 
 
 ---
 
