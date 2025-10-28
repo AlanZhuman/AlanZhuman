@@ -42,15 +42,15 @@ _May 2024 - September 2024_
 ---
 
 ## 🌍 Languages
-• **German**: B1.2-B2.1 (active learning)  
+• **German**: B2 (active learning)  
 • **English**: B2 (reading documentation, basic communication)  
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2026
 1. Complete AWS Cloud Practitioner Certification  
 2. Master advanced features of Python, Django, FastAPI  
-3. Improve German to level B2.2-C1  
+3. Improve German to level C1-C2  
 4. Start developing my own project 
 
 ---
